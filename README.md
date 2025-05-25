@@ -4,5 +4,5 @@ Este repositorio contiene el desarrollo completo del sistema de gestión para lo
 Integrantes - GRUPO B
 Valerie Cardenas, 
 Juan Diego Naranjo, 
-Fabian Aguinaga, 
-Juan Esteban Montoya, 
+Fabian Aguinaga y 
+Juan Esteban Montoya
